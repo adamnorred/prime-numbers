@@ -1,4 +1,4 @@
-const n = 100; // put any natural number n > 1, 100 is placeholder
+let n = 100; // put any natural number n > 1, 100 is placeholder
 
 // first loop for evaluating every natural from 2 up to n
 // second loop to divide every natural by numbers from 2 up to n
